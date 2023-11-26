@@ -4,6 +4,9 @@ Object Relational Mapping의 줄임말로 객체 관계 매핑을 의미한다. 
 
 클래스는 데이터베이스의 테이블과 매핑하기 위해 만들어진 것이 아니기 때문에 RDB 테이블과 불일치가 존재한다. ORM은 이 둘의 불일치와 제약사항을 해결하는 역할이다.
 
+![ORM의 역할](https://github.com/jxixeun/CSStudy/assets/102013524/81de80ec-50fc-43f8-955a-4d8f4fe84f1d)
+
+
 ORM을 이용하면 쿼리문 작성이 아닌 코드(메서드)로 데이터를 조작할 수 있다.
 
 # :dizzy: ORM의 장점
